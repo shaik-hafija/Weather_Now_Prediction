@@ -66,7 +66,7 @@ function Dashboard() {
 
   return (
     <>
-      <h1>Weather Dashboard</h1>
+      <h1>Jamie Weather Dashboard</h1>
       <div className="container">
         <div className="weather-input">
           <h3>Enter a City Name</h3>
